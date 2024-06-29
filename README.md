@@ -206,19 +206,20 @@ LIMIT 10;
 ```
 
 
-|Skills	|Skill_Count	|Avg_Salary|
-|-------|--------------|----------|
-|sql|398	|97237|
-|excel|256	|87288|
-|python|236	|101397|
-|tableau	|230	|99288|
-|r|148	|100499|
-|power bi	|110	|97431|
-|sas|63	|98902|
-|powerpoint	|58	|88701|
-|looker	|49	|103795|
-|word |48 |82579|
+|Skills	   |Skill_Count|Avg_Salary|
+|----------|-----------|----------|
+|sql       |398	       |97237     |
+|excel     |256	       |87288     |
+|python    |236	       |101397    |
+|tableau   |230	       |99288     |
+|r         |148	       |100499    |
+|power bi  |110	       |97431     |
+|sas       |63	       |98902     |
+|powerpoint|58	       |88701     |
+|looker	   |49	       |103795    |
+|word      |48         |82579     |
 *Table of the most optimal skills for data analyst sorted by salary*
+
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 - **High-Demand Programming Languages**: SQL,Python and R stand out for their high demand, with demand counts of 398, 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python,$100,499 for r and $97,237 for sql, indicating that proficiency in these languages is highly valued but also widely available.
