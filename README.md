@@ -1,21 +1,22 @@
 # INTRODUCTION
 
-📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+ This project explores  top-paying jobs,  high-demand skills, and skills where high demand meets high salary in my own role, data analytics. 
 
-🔍 SQL queries? Check them out here: [projects folder](/PROJECTS/)
+    - The dataset used for this project is available at: [DataSet](https://drive.google.com/file/d/1gII1ohDmnw08Dvkw4triB7JoFBSL87wC/view?usp=drive_link)
+    
+    - The developed SQL queries are available at:  [projects folder](/PROJECTS/)
 
 # background
 
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+Driven by an interest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs. The result of this project is critical to those who are jobseekers or for anyone interested about the jobs and skills in data analytics roles.
 
-Data hails from my SQL Course. It's packed with insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I wanted to answer through my SQL queries were:
-What are the top-paying data analyst jobs?
-What skills are required for these top-paying jobs?
-What skills are most in demand for data analysts?
-Which skills are associated with higher salaries?
-What are the most optimal skills to learn?
+- What are the top-paying data analyst jobs?
+- What skills are required for these top-paying jobs?
+- What skills are most in demand for data analysts?
+- Which skills are associated with higher salaries?
+- What are the most optimal skills to learn?
 
 # Tools I used 
 
@@ -24,13 +25,15 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
 PostgreSQL: The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code**: My go-to for database management and executing SQL queries.
+- **JupyterNotebook**: used to generate the visualizations of the sql query resultsr 
 - **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
+
 # The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
+Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how each question is approached.
 
 ### 1.  Top Paying Data Analyst Jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field for remote workers.
 
 ```sql
 SELECT	
@@ -52,6 +55,19 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
+|Job_id | Job_title| Job_Schedule_Type|year_AVG_salary| Company|
+|-------|---------------------------------|-------------|-------|-------|
+|226942	|Data Analyst	                  |Full-time  |650000	|Mantys|
+|547382	|Director of Analytics	          |Full-time	|336500	|Meta|
+|552322	|Associate Director-Data Insights  |Full-time	|255829.5	|AT&T|
+|99305	|Data Analyst, Marketing	           |Full-time	|232423	|Pinterest Job Advertisements|
+|1021647	|Data Analyst (Hybrid/Remote)	   |Full-time	|217000	|Uclahealthcareers|
+|168310	|Principal Data Analyst (Remote)	  |Full-time	|205000               |SmartAsset|
+|731368	|Director, Data Analyst - HYBRID	  |Full-time	|189309	|Inclusively|
+|310660	|Principal Data Analyst, AV Performance Analysis	|Full-time	|189000	|Motional|
+|1749593	|Principal Data Analyst	|Full-time	|186000	|SmartAsset|
+|387860	|ERM Data Analyst	|Full-time	|184000	|Get It Recruit - Information Technology|
+
 
 Here's the breakdown of the top data analyst jobs in 2023:
 
