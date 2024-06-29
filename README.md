@@ -174,7 +174,8 @@ Exploring the average salaries associated with different skills revealed which s
 |swift	       |153,750           |
 |jupyter       |152,777           |
 |pandas	       |151,821           |
-|elasticsearch |145,000       |
+|elasticsearch |145,000           |
+
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 
@@ -218,7 +219,9 @@ LIMIT 10;
 |powerpoint|58	       |88701     |
 |looker	   |49	       |103795    |
 |word      |48         |82579     |
+
 *Table of the most optimal skills for data analyst sorted by salary*
+
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
