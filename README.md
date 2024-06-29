@@ -207,17 +207,17 @@ LIMIT 10;
 
 
 |Skills	|Skill_Count	|Avg_Salary|
-|--------|--------------|----------|
-|sql	|398	|97237|
-|excel	|256	|87288|
-|python|	236	|101397|
+|-------|--------------|----------|
+|sql|398	|97237|
+|excel|256	|87288|
+|python|236	|101397|
 |tableau	|230	|99288|
-|r	|148	|100499|
+|r|148	|100499|
 |power bi	|110	|97431|
-|sas	|63	|98902|
+|sas|63	|98902|
 |powerpoint	|58	|88701|
 |looker	|49	|103795|
-word     |48 |82579|
+|word |48 |82579|
 *Table of the most optimal skills for data analyst sorted by salary*
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
