@@ -2,8 +2,7 @@
 
  This project explores  top-paying jobs,  high-demand skills, and skills where high demand meets high salary in my own role, data analytics. 
 
-    - The dataset used for this project is available at: [DataSet](https://drive.google.com/file/d/1gII1ohDmnw08Dvkw4triB7JoFBSL87wC/view?usp=drive_link)
-    
+    - The dataset used for this project is available at: [DataSet](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
     - The developed SQL queries are available at:  [projects folder](/PROJECTS/)
 
 # background
@@ -65,7 +64,7 @@ LIMIT 10;
 |168310	|Principal Data Analyst (Remote)	  |Full-time	|205000               |SmartAsset|
 |731368	|Director, Data Analyst - HYBRID	  |Full-time	|189309	|Inclusively|
 |310660	|Principal Data Analyst, AV Performance Analysis	|Full-time	|189000	|Motional|
-|1749593	|Principal Data Analyst	|Full-time	|186000	|SmartAsset|
+|1749593	|Principal Data Analyst	Full-time	|186000	|SmartAsset|
 |387860	|ERM Data Analyst	|Full-time	|184000	|Get It Recruit - Information Technology|
 
 
