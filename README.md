@@ -67,7 +67,7 @@ LIMIT 10;
 |168310	|Principal Data Analyst (Remote)	  |Full-time	|205000               |SmartAsset|
 |731368	|Director, Data Analyst - HYBRID	  |Full-time	|189309	|Inclusively|
 |310660	|Principal Data Analyst, AV Performance Analysis	|Full-time	|189000	|Motional|
-|1749593	|Principal Data Analyst	Full-time	|186000	|SmartAsset|
+|1749593	|Principal Data Analyst	|Full-time	|186000	|SmartAsset|
 |387860	|ERM Data Analyst	|Full-time	|184000	|Get It Recruit - Information Technology|
 
 
@@ -154,6 +154,7 @@ LIMIT 5;
 |Python	 |  4330        | 
 |Tableau |  3745        |
 |Power BI|	2609        |
+
 *Table of the demand for the top 5 skills in data analyst job postings* 
 
 
